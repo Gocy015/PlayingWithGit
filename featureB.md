@@ -2,3 +2,5 @@
 BBB
 
 update Feature B
+
+master alter feature b
